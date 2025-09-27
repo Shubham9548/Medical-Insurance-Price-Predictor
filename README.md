@@ -17,7 +17,7 @@ This project aims to build a machine learning model that can predict the **insur
 ## 📊 Features Used
 
 - Age
-- Sex
+- Gender
 - BMI
 - Number of children
 - Smoker (Yes/No)
